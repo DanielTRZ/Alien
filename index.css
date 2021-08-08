@@ -1,4 +1,3 @@
-
 @media all and (max-width:1600px){
     html{
         font-size: 20px; 
@@ -8,8 +7,7 @@
     html {
         font-size: 15px; 
     }
-}
-   
+}   
 body{
     background: rgb(1,8,2);
     background: linear-gradient(90deg, rgba(1,8,2,1) 0%, rgba(4,0,0,1) 0%, rgba(3,36,0,1) 40%, rgba(4,0,0,1) 100%, rgba(9,29,6,0.865983893557423) 100%);
@@ -25,7 +23,6 @@ main{
     margin-left: auto;
     margin-right: auto;
 }
-
 nav{
     height: 40px;
     background: rgb(1,8,2);
@@ -39,12 +36,10 @@ nav{
     margin-top: auto;
     top: 3px;    
 }
-section{
-    
+section{    
     height: 200vh;
     font-size: 1.5rem;
-    padding: 1px 0px;
-        
+    padding: 1px 0px;        
 }
 nav ul{
     list-style: none;
