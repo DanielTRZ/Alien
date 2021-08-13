@@ -49,8 +49,7 @@ nav ul{
 nav li{
     float: left;
     width: 12.50%;
-    text-align: center;  
-   
+    text-align: center;     
 }
 nav a{
     font-size: 1.2rem;
@@ -59,7 +58,6 @@ nav a{
     color: red;
     transition: color 1s linear 0.3s;
 }
-
 nav a:hover{ color: darkgreen;}
 
 span{
