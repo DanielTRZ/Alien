@@ -66,8 +66,6 @@ span{
 }
 section a{
     padding-top: 40px;
-   
-    
 }
 article{
     font-size: 1.5rem;
@@ -100,15 +98,14 @@ span {display: flex;
 #ob1 img{
     width: 275px;
     height: 412px;
-    float: left;   
-    
+    float: left;      
 }
 #ob2 img {
     width: 275px;
     height: 412px;
-    float: left;
-    
-}#ob3 img {
+    float: left; 
+}
+#ob3 img {
     width: 275px;
     height: 412px;
     float: left;
