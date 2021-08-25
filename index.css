@@ -90,8 +90,8 @@ banner img{
 }
 p {
     text-align: center;}
-
-span {display: flex;
+span{
+    display: flex;
       justify-content: center;
       font-size:xx-large;
 }
